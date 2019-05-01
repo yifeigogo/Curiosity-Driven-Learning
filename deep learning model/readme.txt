@@ -1,5 +1,5 @@
 readme
-If you want to train the model, you only need to run model.py.
+If you want to train the model, you need first download glov data for the pretrained model first.
 If you have more data, you need to rebuild the dataset and train the model:
 First, run preprocessing.py to seperate data into value and label
 Second, run label_trans.py to make the label file to have the form we want.
